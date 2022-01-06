@@ -1,0 +1,167 @@
+
+p{
+  margin: 2px;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+
+h2, h3 {
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+
+body{
+  text-align: center;
+  background-color: #FEF7DC;
+  font-family: "Ubuntu";
+  font-weight: 400;
+}
+
+
+a{
+  text-decoration: none;
+  color:grey;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+}
+li {
+  display: inline-block;
+}
+
+
+hr{
+  border: none;
+  border-top: 3px double #333;
+  border-color: #E6DDC6;
+  padding-bottom: 20px;
+  width: 200px;
+}
+
+footer{
+  text-align: center;
+}
+
+.macaron{
+  width:30px;
+}
+
+/* .container{
+  padding: 5rem 5rem 0;
+} */
+
+
+/* Section Title */
+.side-bar {
+  padding: 0 1rem;
+}
+
+#login-bar{
+  text-align: right;
+  padding: 1rem 1rem 0;
+}
+
+.nav-link{
+  color:white;
+}
+
+#title{
+  padding:0 5rem 1rem;
+  margin:0;
+}
+
+/* Section Carousel */
+.carousel{
+  text-align: center;
+  background-color: #EDF6E5;
+  /* padding: 5rem 5rem 3rem; */
+}
+
+#carou{
+  padding:0;
+}
+
+
+/* Section Model */
+#model{
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.model{
+  width: 14rem;
+  height: 20rem;
+  padding: 1rem 0;
+}
+
+/* Section Review */
+#review{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #C9CCD5;
+}
+
+
+/* Section Footer */
+#contact{
+
+}
+
+.contact-icon {
+  padding: 2rem;
+}
+
+
+.signup {
+  width: 420px;
+  display: inline-block;
+  background-color: white;
+  border: solid 1px;
+  border-color: #E6DDC6;
+  margin: 5rem 0;
+  padding-bottom: 30px;
+}
+
+.signup p {
+  text-align: left;
+  line-height: 1.5;
+  margin:0 40px;
+}
+
+.signup-input{
+  width: 320px;
+  height: 35px;
+  font-size:20px;
+  text-align: left;
+  margin:0 40px;
+}
+
+.signup-check {
+  margin-top: 20px;
+  margin:10px 40px;
+}
+
+.signup-check p {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.signup-button {
+  width: 200px;
+  height: 50px;
+  font-size:20px;
+  margin:5px;
+  margin-top: 10px;
+}
+
+.signup-button:hover {
+  background-color: #E6DDC6;
+  color: #fff;
+  cursor: pointer;
+}

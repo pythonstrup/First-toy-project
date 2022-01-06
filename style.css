@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  background-color: #FEF7DC;
+  font-family: "Ubuntu";
+  font-weight: 400;
+}
+
+hr{
+  border: none;
+  border-top: 3px double #333;
+  border-color: #E6DDC6;
+  padding-bottom: 20px;
+  width: 200px;
+}
+
+input {
+
+}
+
+p{
+  margin: 2px;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+.signup {
+  width: 420px;
+  display: inline-block;
+  background-color: white;
+  border: solid 1px;
+  border-color: #E6DDC6;
+  margin: 5rem 0;
+  padding-bottom: 30px;
+}
+
+.signup p {
+  text-align: left;
+  line-height: 1.5;
+  margin:0 40px;
+}
+
+.signup-input{
+  width: 320px;
+  height: 35px;
+  font-size:20px;
+  text-align: left;
+  margin:0 40px;
+}
+
+.signup-check {
+  margin-top: 20px;
+  margin:10px 40px;
+}
+
+.signup-check p {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.signup-button {
+  width: 200px;
+  height: 50px;
+  font-size:20px;
+  margin:5px;
+  margin-top: 10px;
+}
+
+.signup-button:hover {
+  background-color: #E6DDC6;
+  color: #fff;
+  cursor: pointer;
+}
